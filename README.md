@@ -33,6 +33,9 @@ the way you usually do (GNOME settings or anything else).
   I couldn't be bothered to replicate it fully.
 * It should include everything, including vocalisation,
   shadda, sukun, آ أ إ ئ ژ etc.
+* Vocalisation + shadda / sukun are all triggered by alt plus
+  simple letter (a, i, o, u, k, w). I don't like O and K
+  but U is crowded right now. Alt+shift for tanwin.
   
 # TODO
 
