@@ -44,9 +44,10 @@ the way you usually do (GNOME settings or anything else).
   It's not too bad but it's inefficient.
 * No keypad because I don't have a keypad.
 * If you don't have a keypad, western numerals are only
-  accessible using alt+shift, which is clunky. I wanted to
-  keep Arabic and Persian numerals, so if you need to type
-  western ones quickly you should switch layout.
+  accessible using alt+shift, which is clunky, unless you're
+  French. I wanted to keep Arabic and Persian numerals, so
+  if you need to type western ones quickly you should switch
+  layout.
   
 # TODO
 
