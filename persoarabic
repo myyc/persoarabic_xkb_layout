@@ -21,8 +21,8 @@ key <AE07> { [ Arabic_7, slash, asciicircum, 7 ] };
 key <AE08> { [ Arabic_8, parenleft, KP_Multiply, 8 ] };
 key <AE09> { [ Arabic_9, parenright, 9, 9 ] };
 key <AE10> { [ Arabic_0, equal, Farsi_0, 0 ] };
-key <AE11> { [ underbar, Arabic_question_mark, KP_Subtract, KP_Subtract ] };
-key <AE12> { [ KP_Equal, KP_Add, KP_Add ] };
+key <AE11> { [ underscore, Arabic_question_mark, KP_Subtract, question ] };
+key <AE12> { [ equal, plus, 0x1002212 ] };
 
 // Persian letters and symbols
 key <AD01> { [ Arabic_qaf, Arabic_ghain ] };
@@ -61,8 +61,6 @@ key <AB08> { [ comma, semicolon, Arabic_comma, Arabic_semicolon ] };
 key <AB09> { [ period, colon, leftcaret, rightcaret ] };
 
 key <LSGT> { [ less, greater, guillemotleft, guillemotright] };
-key <AE11> { [ minus, underscore ] };
-key <AE12> { [ equal, plus, 0x1002212 ] };
 key <BKSL> { [ backslash, bar, 0x1002010 ] };
 key <TLDE> { [ U02DC, UFDFC, UFDF2 ] };
 };
