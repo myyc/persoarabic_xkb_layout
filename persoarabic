@@ -22,14 +22,14 @@ key <AE08> { [ Arabic_8, parenleft, KP_Multiply, 8 ] };
 key <AE09> { [ Arabic_9, parenright, 9, 9 ] };
 key <AE10> { [ Arabic_0, equal, Farsi_0, 0 ] };
 key <AE11> { [ underscore, Arabic_question_mark, KP_Subtract, question ] };
-key <AE12> { [ equal, plus, 0x1002212 ] };
+key <AE12> { [ equal, plus, U2212 ] };
 
 // Persian letters and symbols
 key <AD01> { [ Arabic_qaf, Arabic_ghain ] };
 key <AD02> { [ Arabic_sheen, Arabic_ain, Arabic_shadda ] };
-key <AD03> { [ Arabic_ain, Arabic_hamzaunderalef ] };
-key <AD04> { [ Arabic_ra ] };
-key <AD05> { [ Arabic_teh, Arabic_thal ] };
+key <AD03> { [ Arabic_ain, Arabic_hamzaunderalef, Arabic_yeh_baree ] };
+key <AD04> { [ Arabic_ra, U0691 ] };  // ra & Urdu retroflex ra
+key <AD05> { [ Arabic_teh, Arabic_theh, U0679, Arabic_thal] }; // teh, theh, Urdu retroflex teh & dhal
 key <AD06> { [ Arabic_tah, Arabic_hamzaonyeh, Farsi_yeh ] };
 key <AD07> { [ Arabic_waw, Arabic_tah, Arabic_zah ] };
 key <AD08> { [ Arabic_yeh, Farsi_yeh, Arabic_kasra, Arabic_kasratan ] };
@@ -40,10 +40,10 @@ key <AD12> { [ bracketleft, braceright, Armenian_parenright ] };
 
 key <AC01> { [ Arabic_alef, Arabic_maddaonalef, Arabic_fatha, Arabic_fathatan ] };
 key <AC02> { [ Arabic_seen, Arabic_sad ] };
-key <AC03> { [ Arabic_dal, Arabic_dad ] };
+key <AC03> { [ Arabic_dal, Arabic_dad, Arabic_thal, U0688 ] }; // dal, dad, dhal & Urdu retroflex dad
 key <AC04> { [ Arabic_feh ] };
 key <AC05> { [ Arabic_ghain, Arabic_gaf ] };
-key <AC06> { [ Arabic_hah, Arabic_heh, Arabic_khah ] };
+key <AC06> { [ Arabic_hah, Arabic_heh, U06BE ] };
 key <AC07> { [ Arabic_jeem, Arabic_jeh ] };
 key <AC08> { [ Arabic_kaf, Arabic_keheh, Arabic_sukun ] };
 key <AC09> { [ Arabic_lam ] };
@@ -51,18 +51,18 @@ key <AC10> { [ Arabic_hamza, Arabic_semicolon, colon ] };
 key <AC11> { [ Arabic_hamzaonalef, Arabic_comma, quotedbl, quotedbl ] };
 
 key <AB01> { [ Arabic_zain, Arabic_zah, Arabic_jeh, Arabic_dad ] };
-key <AB02> { [ Arabic_khah, U0603, U0602 ] };
+key <AB02> { [ Arabic_khah, U06C1, U06BE ] };
 key <AB03> { [ Arabic_sad, Arabic_tcheh, Arabic_theh ] };
 key <AB04> { [ Arabic_waw, Arabic_hamzaonwaw ] };
 key <AB05> { [ Arabic_beh ] };
-key <AB06> { [ Arabic_noon ] };
+key <AB06> { [ Arabic_noon, Arabic_noon_ghunna ] };
 key <AB07> { [ Arabic_meem ] };
 key <AB08> { [ comma, semicolon, Arabic_comma, Arabic_semicolon ] };
 key <AB09> { [ period, colon, leftcaret, rightcaret ] };
 key <AB10> { [ minus, underscore, 0x100200c, question ] };
 
 key <LSGT> { [ less, greater, guillemotleft, guillemotright] };
-key <BKSL> { [ backslash, bar, 0x1002010 ] };
+key <BKSL> { [ backslash, bar, U2010 ] };
 key <TLDE> { [ U02DC, UFDFC, UFDF2 ] };
 };
 
