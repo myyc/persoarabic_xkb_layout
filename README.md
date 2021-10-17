@@ -25,7 +25,7 @@ the way you usually do (GNOME settings or anything else).
 
 # Features
 
-* No IBus or other complicated stuff
+* No IBus or other complicated stuff: it works as-is.
 * Phonetic. Q key outputs ق, M outputs م and so on
 * If you have used the MacOS Arabic QWERTY (best on the market)
   this will be very familiar to you, at least the basics
