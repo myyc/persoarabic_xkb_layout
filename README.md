@@ -1,5 +1,7 @@
 # persoarabic_xkb_layout
-An xkb QWERTY phonetic layout to input Arabic and Persian
+An xkb QWERTY phonetic layout to input Arabic and Persian that
+doesn't suck, unless you have been using an Arabic keyboard
+your whole life.
 
 # Installation
 Copy `persoarabic` to `/usr/share/X11/xkb/symbols/`, then edit
