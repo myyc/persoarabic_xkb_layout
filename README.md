@@ -30,7 +30,9 @@ the way you usually do (GNOME settings or anything else).
 * If you have used the MacOS Arabic QWERTY (best on the market)
   this will be very familiar to you, at least the basics
 * There are differences because I did this in an hour and
-  I couldn't be bothered to replicate it fully.
+  I couldn't be bothered to replicate it fully, e.g. ض is
+  shift+D instead of shift+C because shift+C is چ which is
+  more sensible for Persian speakers.
 * It should include everything, including vocalisation,
   shadda, sukun, آ أ إ ئ ژ etc.
 * Vocalisation + shadda / sukun are all triggered by alt plus
