@@ -50,6 +50,8 @@ the way you usually do (GNOME settings or anything else).
   French. I wanted to keep Arabic and Persian numerals, so
   if you need to type western ones quickly you should switch
   layout.
+* It also includes most Urdu letters, but I have close to
+  zero knowledge of the language.
   
 # TODO
 
