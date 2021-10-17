@@ -43,9 +43,10 @@ the way you usually do (GNOME settings or anything else).
 * There is some redundancy (two ways for و, two for ص, etc).
   It's not too bad but it's inefficient.
 * No keypad because I don't have a keypad.
-* If you don't have a keypad, most western numerals are not
-  accessible. I wanted to keep Arabic and Persian numerals
-  where they are different. Switch layouts to access them.
+* If you don't have a keypad, western numerals are only
+  accessible using alt+shift, which is clunky. I wanted to
+  keep Arabic and Persian numerals, so if you need to type
+  western ones quickly you should switch layout.
   
 # TODO
 
