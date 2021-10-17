@@ -12,6 +12,8 @@ layouts.
     <layout>
       <configItem>
         <name>persoarabic</name>
+        <!-- `shortDescription` is what the GNOME kbd switcher overlay shows you 
+             as a preview. Put whichever you like, e.g. `fa` or `ar` or whatever -->
         <shortDescription>ض</shortDescription>
         <description>Perso-arabic</description>
         <languageList>
