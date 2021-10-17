@@ -39,7 +39,11 @@ the way you usually do (GNOME settings or anything else).
   simple letter (a, i, o, u, k, w). I don't like O and K
   but U is crowded right now. Alt+shift for tanwin.
 * There is some redundancy (two ways for و, two for ص, etc).
-  It's not too bad but it's inefficient. 
+  It's not too bad but it's inefficient.
+* No keypad because I don't have a keypad.
+* If you don't have a keypad, most western numerals are not
+  accessible. I wanted to keep Arabic and Persian numerals
+  where they are different. Switch layouts to access them.
   
 # TODO
 
