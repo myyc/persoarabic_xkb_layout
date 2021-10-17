@@ -36,6 +36,8 @@ the way you usually do (GNOME settings or anything else).
 * Vocalisation + shadda / sukun are all triggered by alt plus
   simple letter (a, i, o, u, k, w). I don't like O and K
   but U is crowded right now. Alt+shift for tanwin.
+* There is some redundancy (two ways for و, two for ص, etc).
+  It's not too bad but it's inefficient. 
   
 # TODO
 
