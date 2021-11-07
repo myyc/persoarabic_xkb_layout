@@ -27,13 +27,13 @@ key <AE12> { [ equal, plus, U2212 ] };
 // Persian letters and symbols
 key <AD01> { [ Arabic_qaf, Arabic_ghain ] };
 key <AD02> { [ Arabic_sheen, Arabic_ain, Arabic_shadda ] };
-key <AD03> { [ Arabic_ain, Arabic_hamzaunderalef, Arabic_yeh_baree ] };
+key <AD03> { [ Arabic_heh, U06C0, Arabic_yeh_baree ] }; // heh, Persian hamza on heh, Urdu yeh baree
 key <AD04> { [ Arabic_ra, U0691 ] };  // ra & Urdu retroflex ra
 key <AD05> { [ Arabic_teh, Arabic_theh, U0679, Arabic_thal] }; // teh, theh, Urdu retroflex teh & dhal
 key <AD06> { [ Arabic_tah, Arabic_hamzaonyeh, Farsi_yeh ] };
 key <AD07> { [ Arabic_waw, Arabic_tah, Arabic_zah ] };
 key <AD08> { [ Arabic_yeh, Farsi_yeh, Arabic_kasra, Arabic_kasratan ] };
-key <AD09> { [ Arabic_heh, Arabic_waw, Arabic_damma, Arabic_dammatan ] };
+key <AD09> { [ Arabic_ain, Arabic_waw, Arabic_damma, Arabic_dammatan ] };
 key <AD10> { [ Arabic_tehmarbuta, Arabic_peh ] };
 key <AD11> { [ bracketright, braceleft, Armenian_parenleft ] }; 
 key <AD12> { [ bracketleft, braceright, Armenian_parenright ] };
@@ -47,8 +47,8 @@ key <AC06> { [ Arabic_hah, Arabic_heh, U06BE ] };
 key <AC07> { [ Arabic_jeem, Arabic_jeh ] };
 key <AC08> { [ Arabic_kaf, Arabic_keheh, Arabic_sukun ] };
 key <AC09> { [ Arabic_lam ] };
-key <AC10> { [ Arabic_hamza, Arabic_semicolon, colon ] };
-key <AC11> { [ Arabic_hamzaonalef, Arabic_comma, quotedbl, quotedbl ] };
+key <AC10> { [ U0654, Arabic_hamza, Arabic_alefmaksura, colon ] };
+key <AC11> { [ U0655, quotedbl, quotedbl ] };
 
 key <AB01> { [ Arabic_zain, Arabic_zah, Arabic_jeh, Arabic_dad ] };
 key <AB02> { [ Arabic_khah, U06C1, U06BE ] };
